@@ -1,4 +1,4 @@
-# day-1-vue
+# Nikita Prokopiev | Projects
 
 ## Project setup
 ```
